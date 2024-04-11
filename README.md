@@ -36,4 +36,26 @@
 ## <center>Agora vamos ver como colocar em negrito ou itálico, talvez quem sabé os dois ao mesmo tempo!</center>
 ![u](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzcn1AqFk9MCcdEDLuYpv4IzfrRnZm5oB09McZanioYA&s)
 
-# Para aproveitar também vamos aprender a fazer listas não ordenadas e ordenadas.
+## Para aproveitar também vamos aprender a fazer listas não ordenadas e ordenadas.
+
+### Para colocar em *ITALICO* faremos da seguinte maneira: * nome * ou _ nome _. 
+### Para colocar em **NEGRITO** faremos da seguinte maneira: ** nome ** ou __ nome __.
+### E para deixar em **NEGRITO** E *ITALICO* ao mesmo tempo faremos da seguinte maneira: ___ negrito e italico ___
+
+## Para criarmos uma lista não Ordenada, faremos da seguinte maneira:
+    - Lista 1
+        - Sublista 1
+    
+    1. Lista 2
+        1. Sublista 2
+
+# Agora vamos apredener e escrever uma linha de codigo, e para isso usaremos a crase " ` "
+``` System.out.print("Hello World"); ```
+
+## Para Citações usaremos " > ":
+    Citações -> citação.
+
+# Para criar uma tabela, faremos assim:
+    | Cabeçalho 1 | Cabeçalho 2 |
+    |-------------|-------------|
+    |    zero     |     Um      |
